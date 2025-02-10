@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Arnaldo from Brazil 🇧🇷<br><br>- 📚 I'm currently learning Web developer<br>- ⚡ In my free time I love play video games</p>
+<p align="left">I'm Arnaldo from Brazil 🇧🇷<br><br>- 📚 I'm currently learning back-end<br>- ⚡ In my free time I love play video games</p>
 
 ###
 
